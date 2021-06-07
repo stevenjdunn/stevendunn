@@ -3380,12 +3380,11 @@ input, select, textarea {
 				width: 0.5rem;
 				z-index: 1;
 			}
-
 		#wrapper .copyright {
 			color: rgba(0, 0, 0, 0.25);
 			font-size: 1rem;
 			left: 50vw;
-			position: relative;
+			position: right;
 			width: 50vw;
 		}
 
